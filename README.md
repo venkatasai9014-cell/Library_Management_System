@@ -1,2 +1,22 @@
-# Library_Management_System
-A library management system built using Python and MySQL to store and manage book records with CRUD operations.
+# Library Management System
+
+A Python-based Library Management System integrated with MySQL for managing library books efficiently.
+
+# Features
+Add Books
+View Books
+Return Books
+Delete Books
+MySQL Database Integration
+
+# Technologies
+Python
+MySQL
+MySQL Connector
+
+# Learning Outcomes
+Database Design
+SQL Queries
+CRUD Operations
+Python Functions
+Backend Development
